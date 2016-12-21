@@ -11,11 +11,8 @@ Created on Thu Dec  8 17:07:34 2016
 from bs4 import BeautifulSoup
 import requests
 import os
-<<<<<<< HEAD
-import ojete as ogt
-=======
-aaaaaaa
->>>>>>> aaaa
+
+import numpy as np
 
 # IMPORTANT NOTICE!!! Change the next path with the desired one if you want to launch the code, here and in the "pdfFile =" instruction
 os.makedirs('C:/Users/Nestor/Desktop/_/NIPS 2016/papers', exist_ok=True) 
